@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a Data Scientist, studying Statistics at Federal University Oye-Ekiti. I enjoy building models, and desugning graphics in creative ways.";
+ */ const description = "I'm a Data Scientist, also a student of Statistics Department at Federal University Oye-Ekiti. I enjoy building models, and desugning graphics in creative ways.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
