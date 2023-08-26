@@ -27095,7 +27095,7 @@ var _stylesCss = require("./styles.css");
     linkedIn: "Akinola Afolabi",
     medium: "",
     twitter: "eniiifeoluwa",
-    youTube: ""
+    youTube: "olamidipupo"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a Data Scientist, also a student of Statistics Department at Federal University Oye-Ekiti. I enjoy building models, and designing graphics in creative ways.";
+ */ const description = "I'm a Data Scientist, also a student of Statistics Department at Federal University Oye-Ekiti. I enjoy building machine learning models, and designing graphics in creative ways.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -27200,7 +27200,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By using data to drive decision making, I believe we can make the world a better place.";
+ */ const detailOrQuote = "By using data to drive decision making, I believe we can make the world a better place.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28768,7 +28768,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "WHY DATA ANALYTICS?",
         description: " A blog post that explains why data analytics is important.",
-        url: "https://tell.africa/ayomide-samuel/why-data-analytics/"
+        url: "http://tell.africa/ayomide-samuel/why-data-analytics/"
     }, 
 ];
 const Portfolio = ()=>{
