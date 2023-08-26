@@ -36,6 +36,9 @@ const skillsList = [
   "Deep Learning",
   "Data Visualization",
   "Programming",
+  "Data Analysis",
+  "Machine Learning",
+  "Data Analytics",
 ];
 
 /**
