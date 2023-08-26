@@ -34,12 +34,12 @@ const projectList = [
     title: "Why people choose Python over other programming languages",
     description:
       "A blog post that explains why people choose Python over other programming languages.",
-    url: "tell.africa/olamidipupo/why-people-choose-python-over-other-programming-languages/",
+    url: "https://tell.africa/ayomide-samuel/why-people-choose-python-over-other-programming-languages/",
   },
   {
     title: "WHY DATA ANALYTICS?",
     description: " A blog post that explains why data analytics is important.",
-    url: "tell.africa/olamidipupo/why-data-analytics/",
+    url: "http://tell.africa/ayomide-samuel/why-data-analytics/",
   },
 ];
 

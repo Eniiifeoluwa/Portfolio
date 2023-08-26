@@ -29,7 +29,7 @@ const siteProps = {
   email: "akinolaayomide226@gmail.com",
   gitHub: "eniiifeoluwa",
   instagram: "eniiifeoluwa",
-  linkedIn: "afolabi-akinola-",
+  linkedIn: "Akinola Afolabi",
   medium: "",
   twitter: "eniiifeoluwa",
   youTube: "olamidipupo",
