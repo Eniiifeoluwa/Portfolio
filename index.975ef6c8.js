@@ -27092,10 +27092,10 @@ var _stylesCss = require("./styles.css");
     email: "akinolaayomide226@gmail.com",
     gitHub: "eniiifeoluwa",
     instagram: "eniiifeoluwa",
-    linkedIn: "afolabi-akinola-",
+    linkedIn: "Akinola Afolabi",
     medium: "",
     twitter: "eniiifeoluwa",
-    youTube: "olamidipupo"
+    youTube: ""
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -28763,12 +28763,12 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "Why people choose Python over other programming languages",
         description: "A blog post that explains why people choose Python over other programming languages.",
-        url: "tell.africa/olamidipupo/why-people-choose-python-over-other-programming-languages/"
+        url: "https://tell.africa/ayomide-samuel/why-people-choose-python-over-other-programming-languages/"
     },
     {
         title: "WHY DATA ANALYTICS?",
         description: " A blog post that explains why data analytics is important.",
-        url: "tell.africa/olamidipupo/why-data-analytics/"
+        url: "https://tell.africa/ayomide-samuel/why-data-analytics/"
     }, 
 ];
 const Portfolio = ()=>{
